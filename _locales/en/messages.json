@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "Speed test at Fast.com",
+    "description": "Extension name."
+  },
+
+  "descript": {
+    "message": "Check download speeds at Fast.com, a non-commercial service provided by Netflix.",
+    "description": "Extension description."
+  } 
+}
